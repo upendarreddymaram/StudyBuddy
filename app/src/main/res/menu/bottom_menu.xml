@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/college_fragment"
+        android:title=""
+        android:contentDescription="@string/imageDesc"
+        android:icon="@drawable/menu_college_icon"/>
+
+    <item
+        android:id="@+id/search_fragment"
+        android:title=""
+        android:contentDescription="@string/imageDesc"
+        android:icon="@drawable/menu_search_icon"/>
+
+    <item
+        android:id="@+id/home_fragment"
+        android:contentDescription="@string/imageDesc"
+        android:icon="@drawable/menu_home_icon"
+        android:title="" />
+
+    <item
+        android:id="@+id/private_fragment"
+        android:title=""
+        android:contentDescription="@string/imageDesc"
+        android:icon="@drawable/menu_lock_icon"/>
+
+    <item
+        android:id="@+id/user_fragment"
+        android:title=""
+        android:contentDescription="@string/imageDesc"
+        android:icon="@drawable/menu_user_icon"/>
+
+</menu>

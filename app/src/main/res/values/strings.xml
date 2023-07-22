@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StudyBuddy</string>
+    <string name="college">College</string>
+    <string name="imageDesc">imageDesc</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="private_content">Private Content</string>
+    <string name="user">User</string>
+
+
+    //bottom bar related
+    <string name="ellipsis">&#8230;</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
