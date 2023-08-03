@@ -4,7 +4,7 @@
     <string name="imageDesc">imageDesc</string>
     <string name="search">Search</string>
     <string name="home">Home</string>
-    <string name="private_content">Private Content</string>
+    <string name="private_content">Private</string>
     <string name="user">User</string>
 
 
@@ -13,5 +13,41 @@
     <string name="title_activity_fullscreen">FullscreenActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="splash_text">Learn the New Way</string>
+    <string name="id_number">ID NUMBER :</string>
+    <string name="usercollege">COLLEGE    :</string>
+    <string name="year">YEAR           :</string>
+    <string name="user_name">Upendar Reddy Maram</string>
+    <string name="search_college">Search college</string>
+    <string name="public_content">Public content</string>
+    <string name="college_feats_and_events">College Feats and Events</string>
+    <string name="college_feast_and_event_name_displays_here">College Feast and Event Name Displays Here</string>
+    <string name="college_name_and_address_displays_here">College Name and Address Displays here</string>
+    <string name="login_to_your_college">Login to your College</string>
+    <string name="login_id">Login ID</string>
+    <string name="enter_login_id">Enter Login Id</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="show_college_id">Show college Id</string>
+    <string name="_2018_2022">2018-2022</string>
+    <string name="cmrit">CMRIT</string>
+    <string name="_18ro1a05f8">18RO1A05F8</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_student_details">Add Student Details</string>
+    <string name="enter_student_email">Enter Student Email</string>
+    <string name="enter_student_password">Enter Student password</string>
+    <string name="select_year">Select Year</string>
+    <string name="select_semester">Select Semester</string>
+    <string name="select_course">Select Course</string>
+    <string name="save_details">Save Details</string>
 
 </resources>

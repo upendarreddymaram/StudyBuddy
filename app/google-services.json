@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024521183899",
+    "project_id": "nextzenn-15122k",
+    "storage_bucket": "nextzenn-15122k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024521183899:android:fe0fca3f8bf4026d639c3e",
+        "android_client_info": {
+          "package_name": "com.example.studybuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024521183899-7ep3rq49v6tphrhjh8obkoho6e32ijoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcY_U03j3xjvdONzva3gCN6I4z3RVac28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024521183899-7ep3rq49v6tphrhjh8obkoho6e32ijoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

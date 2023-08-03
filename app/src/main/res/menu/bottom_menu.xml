@@ -3,32 +3,33 @@
 
     <item
         android:id="@+id/college_fragment"
-        android:title=""
         android:contentDescription="@string/imageDesc"
-        android:icon="@drawable/menu_college_icon"/>
+        android:icon="@drawable/menu_college_icon"
+        android:title="@string/college" />
 
     <item
-        android:id="@+id/search_fragment"
-        android:title=""
+        android:id="@+id/private_fragment"
         android:contentDescription="@string/imageDesc"
-        android:icon="@drawable/menu_search_icon"/>
+        android:icon="@drawable/menu_lock_icon"
+        android:title="@string/private_content" />
 
     <item
         android:id="@+id/home_fragment"
         android:contentDescription="@string/imageDesc"
         android:icon="@drawable/menu_home_icon"
-        android:title="" />
-
-    <item
-        android:id="@+id/private_fragment"
-        android:title=""
-        android:contentDescription="@string/imageDesc"
-        android:icon="@drawable/menu_lock_icon"/>
+        android:title="@string/home" />
 
     <item
         android:id="@+id/user_fragment"
-        android:title=""
         android:contentDescription="@string/imageDesc"
-        android:icon="@drawable/menu_user_icon"/>
+        android:icon="@drawable/menu_user_icon"
+        android:title="@string/user"
+        />
+
+    <item
+        android:id="@+id/settings_fragment"
+        android:contentDescription="@string/imageDesc"
+        android:icon="@drawable/menu_settings_icon"
+        android:title="@string/settings" />
 
 </menu>

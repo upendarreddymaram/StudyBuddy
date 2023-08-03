@@ -8,12 +8,8 @@
     <fragment
         android:id="@+id/home_fragment"
         android:name="com.example.studybuddy.fragments.home.HomeFragment"
-        android:label="Home"
-        tools:layout="@layout/fragment_home" >
-<!--        <action-->
-<!--            android:id="@+id/action_firstFragment_to_secondFragment"-->
-<!--            app:destination="@id/second_fragment" />-->
-    </fragment>
+        android:label="StudyBuddy"
+        tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/college_fragment"
@@ -22,10 +18,10 @@
         tools:layout="@layout/fragment_college" />
 
     <fragment
-        android:id="@+id/search_fragment"
-        android:name="com.example.studybuddy.fragments.search.SearchFragment"
-        android:label="Search"
-        tools:layout="@layout/fragment_college" />
+        android:id="@+id/settings_fragment"
+        android:name="com.example.studybuddy.fragments.settings.SettingsFragment"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" />
 
     <fragment
         android:id="@+id/private_fragment"
